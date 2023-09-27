@@ -1,2 +1,2 @@
 # PortfolioProject
-This portfolio includes codes and queries for projects created using tools such as python and SQL.
+This portfolio includes codes and queries for projects created using SQL.
